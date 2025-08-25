@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="450" height="90">
+<svg xmlns="http://www.w3.org/2000/svg" width="458" height="90" tracking="true">
   <defs>
     <style>
       @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@1,500&amp;family=Maple+Mono&amp;display=swap');
